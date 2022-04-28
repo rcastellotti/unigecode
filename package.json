@@ -21,14 +21,7 @@
 	"activationEvents": [
 		"onCommand:unigecode.helloWorld"
 	],
-	"main": "./extension.js",
 	"contributes": {
-		"commands": [
-			{
-				"command": "unigecode.helloWorld",
-				"title": "Hello World"
-			}
-		],
 		"iconThemes": [
 			{
 				"id": "unigecode",
