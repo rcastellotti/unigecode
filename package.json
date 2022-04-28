@@ -6,7 +6,7 @@
 	"engines": {
 		"vscode": "^1.66.0"
 	},
-	"publisher": "SamuelePignone",
+	"publisher": "Roberto Castellotti",
 	"icon": "images/icon.png",
 	"author": {
         "name": "Roberto Castellotti, Samuele Pignone, Milo Galli, Giorgio Rengucci"
