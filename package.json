@@ -27,7 +27,7 @@
 			{
 				"id": "unigecode",
 				"label": "UniGeCode",
-				"path": "./fileicons/unigecode-icon-theme.json"
+				"path": "./unigecode-icon-theme.json"
 			}
 		]
 	},
