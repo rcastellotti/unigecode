@@ -1,0 +1,63 @@
+{
+    "iconDefinitions": {
+        "_file_dark": {
+            "iconPath": "../images/logomc.svg"
+        },
+        "_py_file": {
+            "iconPath": "../images/py.png"
+        },
+        "_c_file": {
+            "iconPath": "../images/c.png"
+        },
+        "_cpp_file": {
+            "iconPath": "../images/cpp.png"
+        },
+        "_java_file": {
+            "iconPath": "../images/java.png"
+        },
+        "_php_file": {
+            "iconPath": "../images/php.png"
+        },
+        "_sql_file": {
+            "iconPath": "../images/sql.png"
+        },
+        "_json_file": {
+            "iconPath": "../images/json.png"
+        },
+        "_sh_file": {
+            "iconPath": "../images/sh.png"
+        },
+        "_ml_file": {
+            "iconPath": "../images/ml.png"
+        },
+        "_txt_file": {
+            "iconPath": "../images/txt.png"
+        },
+        "_ipynb_file": {
+            "iconPath": "../images/ipynb.png"
+        },
+        "_m_file": {
+            "iconPath": "../images/m.png"
+        },
+        "_s_file": {
+            "iconPath": "../images/s.png"
+        }
+    },
+    "fileExtensions": {
+        "py": "_py_file",
+        "c": "_c_file",
+        "cpp": "_cpp_file",
+        "java": "_java_file",
+        "txt": "_txt_file",
+        "ml": "_ml_file",
+        "php": "_php_file",
+        "sql": "_sql_file",
+        "sh": "_sh_file",
+        "ipynb": "_ipynb_file",
+        "m": "_m_file",
+        "s": "_s_file"
+    },
+    "fileNames": {
+        "win.ini": "_win_ini_file"
+    }
+}
