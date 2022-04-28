@@ -1,46 +1,43 @@
 {
     "iconDefinitions": {
-        "_file_dark": {
-            "iconPath": "../images/logomc.svg"
-        },
         "_py_file": {
-            "iconPath": "../images/py.png"
+            "iconPath": "./images/py.jpg"
         },
         "_c_file": {
-            "iconPath": "../images/c.png"
+            "iconPath": "./images/c.jpg"
         },
         "_cpp_file": {
-            "iconPath": "../images/cpp.png"
+            "iconPath": "./images/cpp.jpg"
         },
         "_java_file": {
-            "iconPath": "../images/java.png"
+            "iconPath": "./images/java.jpg"
         },
         "_php_file": {
-            "iconPath": "../images/php.png"
+            "iconPath": "./images/php.jpg"
         },
         "_sql_file": {
-            "iconPath": "../images/sql.png"
+            "iconPath": "./images/sql.jpg"
         },
         "_json_file": {
-            "iconPath": "../images/json.png"
+            "iconPath": "./images/json.jpg"
         },
         "_sh_file": {
-            "iconPath": "../images/sh.png"
+            "iconPath": "./images/sh.jpg"
         },
         "_ml_file": {
-            "iconPath": "../images/ml.png"
+            "iconPath": "./images/ml.jpg"
         },
         "_txt_file": {
-            "iconPath": "../images/txt.png"
+            "iconPath": "./images/txt.jpg"
         },
         "_ipynb_file": {
-            "iconPath": "../images/ipynb.png"
+            "iconPath": "./images/ipynb.jpg"
         },
         "_m_file": {
-            "iconPath": "../images/m.png"
+            "iconPath": "./images/m.jpg"
         },
         "_s_file": {
-            "iconPath": "../images/s.png"
+            "iconPath": "./images/s.jpg"
         }
     },
     "fileExtensions": {
