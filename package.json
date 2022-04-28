@@ -40,7 +40,7 @@
 	"scripts": {
 		"lint": "eslint .",
 		"pretest": "npm run lint",
-		"deploy": "vsce publish --yarn"
+		"deploy": "vsce publish"
 
 	},
 	"devDependencies": {
