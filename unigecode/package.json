@@ -6,6 +6,10 @@
 	"engines": {
 		"vscode": "^1.66.0"
 	},
+	"publisher": "SamuelePignone",
+	"author": {
+        "name": "Roberto Castellotti, Samuele Pignone, Milo Galli, Giorgio Rengucci"
+    },
 	"categories": [
 		"Other"
 	],
