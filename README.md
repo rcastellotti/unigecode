@@ -1,4 +1,4 @@
-# UniGeCode
+# UniGeCode, the icon pack with pesto
 
 ![](banner.png)
 
