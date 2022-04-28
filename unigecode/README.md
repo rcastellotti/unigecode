@@ -1,6 +1,6 @@
 # UniGeCode
 
-![](banner.png)
+![](images/banner.png)
 
 ---
 
