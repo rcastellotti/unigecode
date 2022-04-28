@@ -17,7 +17,14 @@
 		"commands": [{
 			"command": "unigecode.helloWorld",
 			"title": "Hello World"
-		}]
+		}],
+		"iconThemes":[
+            {
+                "id":"unigecode",
+                "label":"UniGeCode",
+                "path":"./fileicons/unigecode-icon-theme.json"
+            }
+        ]
 	},
 	"scripts": {
 		"lint": "eslint .",
