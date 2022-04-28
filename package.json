@@ -1,8 +1,8 @@
 {
-	"name": "unigecode1",
+	"name": "unigecode",
 	"displayName": "UniGeCode",
 	"description": "If you like UniGe, you'll love UniGeCode!",
-	"version": "0.0.2",
+	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.66.0"
 	},
@@ -25,7 +25,7 @@
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "unigecode21",
+				"id": "unigecode",
 				"label": "UniGeCode",
 				"path": "./unigecode-icon-theme.json"
 			}
