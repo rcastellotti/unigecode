@@ -11,6 +11,10 @@
 	"author": {
 		"name": "Roberto Castellotti, Samuele Pignone, Milo Galli, Giorgio Rengucci"
 	},
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/rcastellotti/unigecode"
+    },
 	"categories": [
 		"Other"
 	],
