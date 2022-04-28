@@ -21,6 +21,7 @@
 	"activationEvents": [
 		"onCommand:unigecode.helloWorld"
 	],
+	"main": "./extension.js",
 	"contributes": {
 		"iconThemes": [
 			{
