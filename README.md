@@ -23,10 +23,10 @@ We are not the same, you study in room 210, we design icon packs.
 Vuoi farci una piccola donazione in cryptomonete?  
 Ma perche' invece non esci di casa? Se ti piacciono cosi' tanto i database come dici, studiati gli internal di [PostgreSQL](https://www.postgresql.org/docs/)
 
-<center>
+<p align="center">
 <a href="https://github.com/thaMilo">Milo Galli</a> ·
 <a href="https://github.com/SamuelePignone">Samuele Pignone</a> ·
 <a href="https://github.com/GiorgioRen">Giorgio Rengucci</a> ·
 <a href="https://github.com/rcastellotti">Roberto Castellotti </a> 
 
-</center>
+</p>
