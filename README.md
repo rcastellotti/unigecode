@@ -21,7 +21,7 @@ We are not the same, you study in room 210, we design icon packs.
 
 
 Vuoi farci una piccola donazione in cryptomonete?  
-Ma perche' invece non esci di casa? Se ti piacciono cosi' tanto i database come dici, studiati gli internal di [PostgreSQL](https://www.postgresql.org/docs/)
+Ma perche' invece non esci di casa? Se ti piacciono cosi' tanto i database come dici, studiati la doc di [PostgreSQL](https://www.postgresql.org/docs/)
 
 <p align="center">
 <a href="https://github.com/thaMilo">Milo Galli</a> ·
