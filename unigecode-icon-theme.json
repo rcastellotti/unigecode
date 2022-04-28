@@ -1,60 +1,117 @@
 {
-    "iconDefinitions": {
-        "_py_file": {
-            "iconPath": "images/py.jpg"
-        },
-        "_c_file": {
-            "iconPath": "images/c.jpg"
-        },
-        "_cpp_file": {
-            "iconPath": "images/cpp.jpg"
-        },
-        "_java_file": {
-            "iconPath": "images/java.jpg"
-        },
-        "_php_file": {
-            "iconPath": "images/php.jpg"
-        },
-        "_sql_file": {
-            "iconPath": "images/sql.jpg"
-        },
-        "_json_file": {
-            "iconPath": "images/json.jpg"
-        },
-        "_sh_file": {
-            "iconPath": "images/sh.jpg"
-        },
-        "_ml_file": {
-            "iconPath": "images/ml.jpg"
-        },
-        "_txt_file": {
-            "iconPath": "images/txt.jpg"
-        },
-        "_ipynb_file": {
-            "iconPath": "images/ipynb.jpg"
-        },
-        "_m_file": {
-            "iconPath": "images/m.jpg"
-        },
-        "_s_file": {
-            "iconPath": "images/s.jpg"
-        }
+  "iconDefinitions": {
+    "_root_folder_dark": {
+      "iconPath": "./images/root-folder-dark.svg"
     },
+    "_root_folder_open_dark": {
+      "iconPath": "./images/root-folder-open-dark.svg"
+    },
+    "_folder_dark": {
+      "iconPath": "./images/folder-dark.svg"
+    },
+    "_folder_open_dark": {
+      "iconPath": "./images/folder-open-dark.svg"
+    },
+    "_file_dark": {
+      "iconPath": "./images/document-dark.svg"
+    },
+    "_root_folder": {
+      "iconPath": "./images/root-folder-light.svg"
+    },
+    "_root_folder_open": {
+    },
+    "_folder_light": {
+      "iconPath": "./images/folder-light.svg"
+    },
+    "_folder_open_light": {
+      "iconPath": "./images/folder-open-light.svg"
+    },
+    "_file_light": {
+      "iconPath": "./images/document-light.svg"
+    },
+    "_py_file": {
+      "iconPath": "images/py.jpg"
+    },
+    "_c_file": {
+      "iconPath": "images/c.jpg"
+    },
+    "_cpp_file": {
+      "iconPath": "images/cpp.jpg"
+    },
+    "_java_file": {
+      "iconPath": "images/java.jpg"
+    },
+    "_php_file": {
+      "iconPath": "images/php.jpg"
+    },
+    "_sql_file": {
+      "iconPath": "images/sql.jpg"
+    },
+    "_json_file": {
+      "iconPath": "images/json.jpg"
+    },
+    "_sh_file": {
+      "iconPath": "images/sh.jpg"
+    },
+    "_ml_file": {
+      "iconPath": "images/ml.jpg"
+    },
+    "_txt_file": {
+      "iconPath": "images/txt.jpg"
+    },
+    "_ipynb_file": {
+      "iconPath": "images/ipynb.jpg"
+    },
+    "_m_file": {
+      "iconPath": "images/m.jpg"
+    },
+    "_s_file": {
+      "iconPath": "images/s.jpg"
+    }
+  },
+
+  "folderExpanded": "_folder_open_dark",
+  "folder": "_folder_dark",
+  "file": "_file_dark",
+  "rootFolderExpanded": "_root_folder_open_dark",
+  "rootFolder": "_root_folder_dark",
+  "fileExtensions": {
+    "py": "_py_file",
+    "c": "_c_file",
+    "cpp": "_cpp_file",
+    "java": "_java_file",
+    "txt": "_txt_file",
+    "ml": "_ml_file",
+    "php": "_php_file",
+    "sql": "_sql_file",
+    "sh": "_sh_file",
+    "ipynb": "_ipynb_file",
+    "m": "_m_file",
+    "s": "_s_file"
+  },
+  "fileNames": {
+    // icons by file name
+  },
+  "languageIds": {
+    // icons by language id
+  },
+  "light": {
+    "folderExpanded": "_folder_open_light",
+    "folder": "_folder_light",
+    "rootFolderExpanded": "_root_folder_open",
+    "rootFolder": "_root_folder",
+    "file": "_file_light",
     "fileExtensions": {
-        "py": "_py_file",
-        "c": "_c_file",
-        "cpp": "_cpp_file",
-        "java": "_java_file",
-        "txt": "_txt_file",
-        "ml": "_ml_file",
-        "php": "_php_file",
-        "sql": "_sql_file",
-        "sh": "_sh_file",
-        "ipynb": "_ipynb_file",
-        "m": "_m_file",
-        "s": "_s_file"
+      // icons by file extension
     },
     "fileNames": {
-        "win.ini": "_win_ini_file"
+      // icons by file name
+    },
+    "languageIds": {
+      // icons by language id
     }
+  },
+  "highContrast": {
+    // overrides for high contrast
+  }
 }
