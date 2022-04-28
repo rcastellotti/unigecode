@@ -3,9 +3,7 @@
 ![](banner.png)
 
 ---
-
-
-**Cringe** icon set for Vscode made for *all* **UniGe students**
+We are not the same, you study in room 210, we design icon packs.
 
 ## Supported file extensions
 
@@ -20,3 +18,15 @@
 - .s
 - .sh
 - .txt
+
+
+Vuoi farci una piccola donazione in cryptomonete?  
+Ma perche' invece non esci di casa? Se ti piacciono cosi' tanto i database come dici, studiati gli internal di [PostgreSQL](https://www.postgresql.org/docs/)
+
+<center>
+<a href="https://github.com/thaMilo">Milo Galli</a> ·
+<a href="https://github.com/SamuelePignone">Samuele Pignone</a> ·
+<a href="https://github.com/GiorgioRen">Giorgio Rengucci</a> ·
+<a href="https://github.com/rcastellotti">Roberto Castellotti </a> 
+
+</center>

@@ -1,5 +1,5 @@
 {
-	"name": "unigecode",
+	"name": "unigecode1",
 	"displayName": "UniGeCode",
 	"description": "If you like UniGe, you'll love UniGeCode!",
 	"version": "0.0.1",
@@ -25,7 +25,7 @@
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "unigecode",
+				"id": "unigecode21",
 				"label": "UniGeCode",
 				"path": "./unigecode-icon-theme.json"
 			}
