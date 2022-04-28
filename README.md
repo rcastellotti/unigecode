@@ -1,5 +1,10 @@
 # UniGeCode
 
+![](banner.png)
+
+---
+
+
 **Cringe** icon set for Vscode made for *all* **UniGe students**
 
 ## Supported file extensions
