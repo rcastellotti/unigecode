@@ -1,49 +1,49 @@
 {
-	"name": "unigecode",
-	"displayName": "UniGeCode",
-	"description": "If you like UniGe, you'll love UniGeCode!",
-	"version": "0.0.2",
-	"engines": {
-		"vscode": "^1.66.0"
-	},
-	"publisher": "rcastellotti",
-	"icon": "icon.png",
-	"author": {
-		"name": "Roberto Castellotti, Samuele Pignone, Milo Galli, Giorgio Rengucci"
-	},
-	"repository": {
-        "type": "git",
-        "url": "https://github.com/rcastellotti/unigecode"
-    },
-	"categories": [
-		"Other"
-	],
-	"main": "./extension.js",
-	"contributes": {
-		"iconThemes": [
-			{
-				"id": "unigecode",
-				"label": "UniGeCode",
-				"path": "./unigecode-icon-theme.json"
-			}
-		]
-	},
-	"scripts": {
-		"lint": "eslint .",
-		"pretest": "npm run lint",
-		"deploy": "vsce publish"
-
-	},
-	"devDependencies": {
-		"@types/glob": "^7.2.0",
-		"@types/mocha": "^9.1.0",
-		"@types/node": "14.x",
-		"@types/vscode": "^1.66.0",
-		"@vscode/test-electron": "^2.1.3",
-		"eslint": "^8.11.0",
-		"glob": "^7.2.0",
-		"mocha": "^9.2.2",
-		"typescript": "^4.5.5",
-		"vsce": "^2.7.0"
-	}
+  "name": "unigecode",
+  "displayName": "UniGeCode",
+  "description": "If you like UniGe, you'll love UniGeCode!",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "publisher": "rcastellotti",
+  "icon": "icon.png",
+  "author": {
+    "name": "Roberto Castellotti, Samuele Pignone, Milo Galli, Giorgio Rengucci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rcastellotti/unigecode"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "unigecode",
+        "label": "UniGeCode",
+        "path": "./unigecode-icon-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "deploy": "vsce publish"
+  },
+  "devDependencies": {
+    "@types/glob": "^7.2.0",
+    "@types/mocha": "^9.1.0",
+    "@types/node": "14.x",
+    "@types/vscode": "^1.66.0",
+    "@vscode/test-electron": "^2.1.3",
+    "eslint": "^8.11.0",
+    "glob": "^7.2.0",
+    "mocha": "^9.2.2",
+    "typescript": "^4.5.5",
+    "vsce": "^2.7.0"
+  }
 }
