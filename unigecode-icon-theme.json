@@ -67,7 +67,14 @@
     },
     "_s_file": {
       "iconPath": "images/s.jpg"
-    }
+    },
+    "_csv_file": {
+      "iconPath": "images/csv.jpg"
+    },
+    "_tex_file": {
+      "iconPath": "images/tex.jpg"
+    },
+
   },
 
   "folderExpanded": "_folder_open_dark",
@@ -81,13 +88,15 @@
     "cpp": "_cpp_file",
     "java": "_java_file",
     "txt": "_txt_file",
+    "tex": "_tex_file",
     "ml": "_ml_file",
     "php": "_php_file",
     "sql": "_sql_file",
     "sh": "_sh_file",
     "ipynb": "_ipynb_file",
     "m": "_m_file",
-    "s": "_s_file"
+    "s": "_s_file",
+    "csv": "_csv_file"
   },
   "fileNames": {
     // icons by file name
